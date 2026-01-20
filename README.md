@@ -1,5 +1,4 @@
 ### lambda0x63
-
 I just build.
 
 #### Focus
@@ -8,4 +7,4 @@ I just build.
 - Metaphysics Tech
 
 #### Stack
-TypeScript · Python · Go
+TypeScript · Python · Go ( ····· )
